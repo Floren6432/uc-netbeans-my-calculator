@@ -1,6 +1,6 @@
 # uc-netbeans-my-calculator
 
-A simple desktop calculator application built with Java Swing during my second-year of university studies. It supports basic arithmetic operations including addition, subtraction, multiplication, and division. The GUI features numeric buttons, operation buttons, and a display for input and results.
+A simple desktop calculator application built with Java Swing during my third-year of university studies. It supports basic arithmetic operations including addition, subtraction, multiplication, and division. The GUI features numeric buttons, operation buttons, and a display for input and results.
 
 Features:
 - Basic arithmetic operations like: +, -, *, /
